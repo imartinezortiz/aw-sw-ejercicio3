@@ -273,4 +273,4 @@ router.get('/', ..., asyncHandler(viewLogin));
 Entrega el ejercicio a través de la tarea creada en el CV. Este ejercicio, debido a su relevancia es interesante que lo desarrolles de manera individual. Crea un fichero `.zip` con:
 - El contenido del último apartado que hayas terminado.
 - Un fichero `apartado.txt` que indica el número del último apartado que has terminado (e.g. `apartado 6`).
-- En el caso de que realices el ejercio por parejas incluye un fichero `estudiantes.txt` con los nombres delos estudiantes.
+- En el caso de que realices el ejercicio por parejas incluye un fichero `estudiantes.txt` con los nombres delos estudiantes.
